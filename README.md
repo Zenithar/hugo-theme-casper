@@ -34,7 +34,7 @@ blog demo : http://vjeantet.fr
 **config.toml**
 
 ``` toml
-BaseUrl= "http://example.com"
+BaseURL= "http://example.com"
 LanguageCode= "fr-FR"
 Title= "My blog is awesome"
 paginate = 5
